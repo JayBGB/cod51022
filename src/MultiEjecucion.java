@@ -1,7 +1,10 @@
+import javax.swing.*;
+
 public class MultiEjecucion {
 
     public static void main (String [] args) {
 
-        System.out.println("Hello World! This has been changed.");
+        JOptionPane.showMessageDialog(null,"Hola, bello día y bendisiones");
+
     }
 }
